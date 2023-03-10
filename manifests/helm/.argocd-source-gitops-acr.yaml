@@ -1,0 +1,8 @@
+helm:
+  parameters:
+  - name: image.name
+    value: wangyy-acree-registry.cn-hongkong.cr.aliyuncs.com/gitops/gitops-acr
+    forcestring: true
+  - name: image.tag
+    value: v3.0
+    forcestring: true
