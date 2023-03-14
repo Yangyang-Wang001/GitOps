@@ -5,10 +5,10 @@
 replicaCount: 1
 
 image:
-  repository: registry-intl.cn-hongkong.aliyuncs.com/test647/gitops-acr
+  repository: wangyy-acree-registry.cn-hongkong.cr.aliyuncs.com/gitops/gitops-acr
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v1.0"
+  tag: "v2.0"
 
 imagePullSecrets: []
 nameOverride: ""
