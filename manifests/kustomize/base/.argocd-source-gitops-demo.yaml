@@ -1,0 +1,3 @@
+kustomize:
+  images:
+  - wangyy-acree-registry.cn-hongkong.cr.aliyuncs.com/gitops/gitops-acr:v3.0
