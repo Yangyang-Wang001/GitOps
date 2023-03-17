@@ -18,7 +18,7 @@ spec:
         app.kubernetes.io/name: echo-server
     spec:
       containers:
-      - image: wangyy-acree-registry.cn-hongkong.cr.aliyuncs.com/gitops/gitops-acr:v2.0
+      - image: wangyy-acree-registry.cn-hongkong.cr.aliyuncs.com/gitops/gitops-acr:v3.0
         imagePullPolicy: IfNotPresent
         livenessProbe:
           failureThreshold: 3
