@@ -4,5 +4,5 @@ helm:
     value: wangyy-acree-registry.cn-hongkong.cr.aliyuncs.com/gitops/gitops-acr
     forcestring: true
   - name: image.tag
-    value: v6.0
+    value: v7.0
     forcestring: true
